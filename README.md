@@ -1,2 +1,2 @@
-# temparature-converter
-I have created this app using HTML, CSS, JavaScript
+# temperature-converter-Website-using-html-css-JavaScript
+![temperature-converter-Website-using-html-css-JavaScript](img/github_cover.jpeg)
